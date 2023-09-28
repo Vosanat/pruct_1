@@ -2,7 +2,7 @@
 
 .PHONY: all debug release clean
 
-all: debug release
+all: debug release clean
 
 debug: hello-dbg
 
